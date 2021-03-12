@@ -1,0 +1,7 @@
+4 2
+3 Maria
+10 Claudio
+15 Chiara
+101 Enrico
+10 15
+10 101
